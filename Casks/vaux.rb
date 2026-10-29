@@ -1,6 +1,6 @@
 cask "vaux" do
-  version "1.0.0-alpha.6"
-  sha256 "cf1ef68031305d01d311cbed22ea93a508491a7c29481aaa39176caf2b18aa0d"
+  version "1.0.0-alpha.7"
+  sha256 "8dcecace50135935a2b34b257b3efead733b4c373b6e4c784b5372be61f53817"
 
   url "https://github.com/imathis/vaux/releases/download/v#{version}/Vaux-#{version}.zip"
   name "Vaux"
